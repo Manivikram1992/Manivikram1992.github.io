@@ -12,8 +12,6 @@ I'm a passionate DevOps Engineer with 8+ years of experience designing and manag
 🌐 **Portfolio**  
 Check out my full portfolio website: [**View My Portfolio**](https://manivikram1992.github.io)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)
-
 ---
 
 🛠️ **Skills**  
